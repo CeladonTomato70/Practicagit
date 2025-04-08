@@ -7,3 +7,7 @@ ol{
     background-color: RED;
     color: White;
 }
+fieldset{
+    color:black;
+    background-color: antiquewhite;
+}
