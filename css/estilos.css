@@ -1,3 +1,9 @@
 body{
     background-color: burlywood;
 }
+
+ol{
+    font-size: 25px;
+    background-color: RED;
+    color: White;
+}
